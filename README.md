@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayume Francis (@francis556)
-- 👀 I’m interested in Programming using Python, C , C++ and Php
+- 👀 I’m interested in Programming using Python, C++ and Php
 - 🌱 I’m currently learning Django(Python Web framework)
 - 💞️ I’m looking to collaborate on Django and Python related projects
 - 📫 How to reach me ... You can send me an email @ (vikrammehra244@gmail.com) or check me up on https://ayumefrancis.info
