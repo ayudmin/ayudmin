@@ -7,7 +7,7 @@
 </div>
 <div align='center'>
     Feel free to get in touch with me via <a href='mailto:vikrammehra244@gmail.com'><b>email</b></a>
-    <p>You can see more work I've done on Django in the <a href="https://github.com/justdjango" target="_blank">JustDjango organization</a></p>
+    <p>You can see more work I've done on my  <a href="https://www.ayumefrancis.info" target="_blank">PORTFOLIO site </a></p>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
 
 
-<i>Other places you can find me:</i><br>
+<!-- <i>Other places you can find me:</i><br> -->
 
 <!-- <a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.twitter.com/mattfreire" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
