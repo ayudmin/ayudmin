@@ -3,16 +3,15 @@
 </div>
 <div align='center'>
 
-    My name is Ayume. I'm a software developer. 
+My name is Ayume. I'm a software developer. 
     
-    <br/> I teach web development with Django, and am working on <a href="http://eirmon.shop" target="_blank">Eirmon Shop</a> while learning about other technologies like blockchain and game development.
+<br/> I teach web development with Django, and am working on <a href="http://eirmon.shop" target="_blank">Eirmon Shop</a> while learning about other technologies like blockchain and game development.
 
 </div>
 <div align='center'>
+Feel free to get in touch with me via <a href='mailto:vikrammehra244@gmail.com'><b>email</b></a>
 
-    Feel free to get in touch with me via <a href='mailto:vikrammehra244@gmail.com'><b>email</b></a>
-    
-    <p>You can see more work I've done on my  <a href="https://www.ayumefrancis.info" target="_blank">PORTFOLIO site </a></p>
+<p>You can see more work I've done on my  <a href="https://www.ayumefrancis.info" target="_blank">PORTFOLIO site </a></p>
 </div>
 
 <div align="center">
