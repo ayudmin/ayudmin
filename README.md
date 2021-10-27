@@ -11,7 +11,7 @@ I love coding websites using  Django, and am working on <a href="http://eirmonsh
 <p>- 👀 I’m interested in Programming using Python, C++ and Php</p>
 <p>- 🌱 I’m currently mastering Django(Python Web framework)</p>
 <p>- 💞️ I’m looking to collaborate on Django, Python, Php and C++ related projects </p>
-<p>- 📫 How to reach me ... You can send me an email @ (vikrammehra244@gmail.com) or check me up on my <a href="https://ayumefrancis.info"> portfolio site 💪💪</a</p>
+<p>- 📫 How to reach me ... You can send me an email @ (vikrammehra244@gmail.com) or check me up on my <a href="https://ayumefrancis.info"> portfolio site 💪💪</a></p>
 
 <p>To see more work and projects I've done on 😎 </p>
 </div>
