@@ -3,21 +3,17 @@
 </div>
 <div align='center'>
 
-👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer. 
-    
-<br/> I love coding websites using  Django, and am working on <a href="http://eirmonshop.com" target="_blank">Eirmon Shop</a> while learning about other Web technologies like Php, C++ and Javascript.
+<h3>👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer.</h3> 
+I love coding websites using  Django, and am working on <a href="http://eirmonshop.com" target="_blank">eirmon Shop</a> while learning about other Web technologies like Php, C++ and Javascript.
 
 </div>
 <div align='center'>
-Feel free to get in touch with me via <a href='mailto:vikrammehra244@gmail.com'><b>email</b></a>
-
-
 <p>- 👀 I’m interested in Programming using Python, C++ and Php</p>
 <p>- 🌱 I’m currently mastering Django(Python Web framework)</p>
 <p>- 💞️ I’m looking to collaborate on Django, Python, Php and C++ related projects </p>
-<p>- 📫 How to reach me ... You can send me an email @ (vikrammehra244@gmail.com) or check me up on https://ayumefrancis.info </p>
+<p>- 📫 How to reach me ... You can send me an email @ (vikrammehra244@gmail.com) or check me up on my <a href="https://ayumefrancis.info"> portfolio site 💪💪</a</p>
 
-<p>You can see more work I've done on my  <a href="https://www.ayumefrancis.info" target="_blank">portfolio site </a></p>
+<p>To see more work and projects I've done on 😎 </p>
 </div>
 
 <div align="center">
