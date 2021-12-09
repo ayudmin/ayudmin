@@ -1,6 +1,6 @@
 <div align='center'>
-    <h4>Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile!😊 </h4>
-    <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" alt="">
+    <h4> Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile! 😊 </h4>
+    <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" style="height: 250px;" alt="">
 </div>
 <div align='center'>
 
@@ -26,13 +26,13 @@ I love coding and developing websites using  Django, currently working on <a hre
 </div>
 <hr>
 <hr>
-<div align="center">
+<div align="center" style="background: #141d26">
 <div>
-    <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 150px; width: 200px" alt="">
+    <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 150px; width: 200px; padding-top: 10px;" alt="">
 </div>
 <p>Share a dollar ($1) with me </p>
 <h3>👇👇</h3>
 <a href="https://www.buymeacoffee.com/ayumefrancis" target="_blank">
-    <img src="https://raw.githubusercontent.com/francis556/francis556/main/static/images/bmc-button.png" style='height: 75px' alt="buymeacoffee">
+    <img src="https://raw.githubusercontent.com/francis556/francis556/main/static/images/bmc-button.png" style='height: 55px' alt="buymeacoffee">
 </a>
 </div>
