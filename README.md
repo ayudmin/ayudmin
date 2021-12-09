@@ -1,5 +1,5 @@
 <div align='center'>
-    <h4>Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile!😊</h4>
+    <h4>Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile!😊 </h4>
     <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" alt="">
 </div>
 <div align='center'>
@@ -33,6 +33,6 @@ I love coding and developing websites using  Django, currently working on <a hre
 <p>Share a dollar ($1) with me </p>
 <h3>👇👇</h3>
 <a href="https://www.buymeacoffee.com/ayumefrancis" target="_blank">
-    <img src="https://github/francis556/francis556/static/images/bmc-button.png" style='' alt="buymeacoffee">
+    <img src="https://raw.githubusercontent.com/francis556/francis556/main/static/images/bmc-button.png" style='height: 75px' alt="buymeacoffee">
 </a>
 </div>
