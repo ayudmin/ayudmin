@@ -28,11 +28,11 @@ I love coding and developing websites using  Django, currently working on <a hre
 <hr>
 <div align="center">
 <div>
-    <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 350px" alt="">
+    <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 150px; width: 200px" alt="">
 </div>
 <p>Share a dollar ($1) with me </p>
-<h3>👇👇👇👇👇👇</h3>
+<h3>👇👇</h3>
 <a href="https://www.buymeacoffee.com/ayumefrancis" target="_blank">
-    <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" style='' alt="buymeacoffee">
+    <img src="https://github/francis556/francis556/static/images/bmc-button.png" style='' alt="buymeacoffee">
 </a>
 </div>
