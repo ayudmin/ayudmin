@@ -1,5 +1,5 @@
 <div align='center'>
-    <h3>Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile!😊</h3>
+    <h4>Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile!😊</h4>
     <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" alt="">
 </div>
 <div align='center'>
@@ -16,5 +16,22 @@ I love coding and developing websites using  Django, currently working on <a hre
 </div>
 
 <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
+<i>Other places you can find me:</i>
+<br>
+<br>
+<a href="https://www.youtube.com/channel/UCpUk_EERS3VSu39YMedNHlA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+</div>
+<hr>
+<hr>
+<div align="center">
+<div>
+    <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 350px" alt="">
+</div>
+<p>Share a dollar ($1) with me </p>
+<h3>👇👇👇👇👇👇</h3>
+<a href="https://www.buymeacoffee.com/ayumefrancis" target="_blank">
+    <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" style='' alt="buymeacoffee">
+</a>
+</div>
