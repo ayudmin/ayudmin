@@ -1,13 +1,13 @@
 <div align='center'>
     <h4> Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile! 😊 </h4>
-    <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" style="height: 250px;" alt="">
+    <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" style="height: 250px;" alt="smiling face">
 </div>
 <div align='center'>
     <h3>👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer.</h3> 
     <p>I love coding and developing websites using  django, currently working on <a href="https://eirmonshop.com" target="_blank">eirmonshop</a> while learning about other web technologies.</p>
     <p>- 👀 I’m interested in programming using python 💖, php and javascript 🌱 and currently mastering django (python web framework).</p>
-    <p>- 💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://ayumefrancis.info/contact">here 📫</a></p>
-    <p> Check me up on  <a href="https://ayumefrancis.info">ayumefrancis.info</a> to see more work and projects I've done 😎 </p>
+    <p>- 💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://ayumefrancis.info/contact" target='_blank' >here 📫</a></p>
+    <p> Check me up on  <a href="https://ayumefrancis.info" target='_blank'>ayumefrancis.info</a> to see more work and projects I've done 😎 </p>
 </div>
 
 <div align="center">
