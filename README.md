@@ -25,13 +25,4 @@
 </div>
 <hr>
 <hr>
-<div align="center" style="background: #141d26">
-    <div>
-        <img src="https://media.giphy.com/media/S7K9EsqHvTGaOGmfKd/giphy.gif" style="height: 150px; width: 200px; padding-top: 10px;" alt="">
-    </div>
-    <p>Share a dollar ($1) with me </p>
-    <h3>👇👇</h3>
-    <a href="https://www.buymeacoffee.com/ayumefrancis" target="_blank">
-        <img src="https://raw.githubusercontent.com/francis556/francis556/main/static/images/bmc-button.png" style='height: 55px' alt="buymeacoffee">
-    </a>
-</div>
+
