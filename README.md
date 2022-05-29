@@ -1,6 +1,6 @@
 <div align='center'>
     <h4> Oh my God!!! I am shaking with delight right now. Someone is actually looking at my profile! 😊 </h4>
-    <img src="https://media.giphy.com/media/offRxUVDyEXFjbSnMH/giphy.gif" style="height: 220px;" alt="smiling face">
+    <img style="height: 275px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/661972f9027b0f395eeb9ca67868761155147d54a4ea3109d34cd59d55732454/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f66665278555644794558466a62536e4d482f67697068792e676966">
 </div>
 <div align='center'>
     <h3>👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer.</h3> 
