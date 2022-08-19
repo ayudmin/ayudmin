@@ -18,6 +18,9 @@
     <br>
     <i>Other places you can find me:</i>
     <br>
+    <a href="https://ayumefrancis.info">
+      <img src="https://img.shields.io/badge/Portfolio%20site%20ayumefrancis.info%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
     <br>
     <a href="https://www.youtube.com/channel/UCpUk_EERS3VSu39YMedNHlA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </div>
