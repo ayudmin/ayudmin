@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&&hide=issues&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&hide=issues&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
 </div>
 <br>
 <div align='center'>
