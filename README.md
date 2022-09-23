@@ -19,7 +19,7 @@
     <i>Other places you can find me:</i>
     <br>
     <br>
-     <a href="https://www.facebook.com/AyumeFrancisBlog/">
+     <a href="https://www.facebook.com/blog.ayumefrancis.info/">
       <img src="https://img.shields.io/badge/Facebook%20Page%20%20%E2%86%92-gray.svg?colorA=61c265&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://blog.ayumefrancis.info">
