@@ -3,9 +3,9 @@
     <img style="height: 275px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/661972f9027b0f395eeb9ca67868761155147d54a4ea3109d34cd59d55732454/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f66665278555644794558466a62536e4d482f67697068792e676966">
 <br>
 <br>
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <h2>🤓 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=francis556">
-    </a>
+    </a> 🤓</h2>
 </div>
 <div align='center'>
     <h3>👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer.</h3> 
