@@ -12,15 +12,7 @@
     <p>- I love coding and developing web applications using  django or laravel for my backends and react along vue js for my frontends. Currently working on <a href="https://eirmonshop.com" target="_blank">eirmonshop</a> while learning about other web technologies.</p>
     <p>- 👀 I’m interested in javascript 🌱, php 🏊 and python 💖 most of the time programming languages. 💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check me up on  <a href="https://ayumefrancis.info" target='_blank'>ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
 </div>
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis556&hide=issues&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Francis' Github Stats">
-</div>
-<br>
 <div align='center'>
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=francis556&hide=scss,css,less,blade,shell,hack,ruby,html&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7'>
-    <br>
-    <br>
     <i>Other places you can find me:</i>
     <br>
     <br>
