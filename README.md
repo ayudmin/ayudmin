@@ -4,11 +4,11 @@
 <br>
 <br>
     <h2>🤓 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=francis556">
+        <img src="https://komarev.com/ghpvc/?username=ayudmin">
     </a> 🤓</h2>
 </div>
 <div align='center'>
-    <h3>👋 Hi, I'm Ayume Francis (@francis556). I'm a software developer.</h3> 
+    <h3>👋 Hi, I'm Ayume Francis (@ayudmin). I'm a software developer.</h3> 
     <p>- I love coding and developing web applications using  django or laravel for my backends and react along vue js for my frontends. Currently working on <a href="https://eirmonshop.com" target="_blank">eirmonshop</a> while learning about other web technologies.</p>
     <p>- 👀 I’m interested in javascript 🌱, php 🏊 and python 💖 most of the time programming languages. 💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check me up on  <a href="https://ayumefrancis.info" target='_blank'>ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
 </div>
