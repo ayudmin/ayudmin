@@ -23,9 +23,9 @@
             </ul>
         <h4 align=''><b>Programming Languages of interest :</b></h4>
                     <ul>
-                <listyle="list-style: none;"><span style='font-size: 1em;'>-</span> javascript 🌱</li>
-                <li align='center'style="list-style: none;"><span style='font-size: 1em;'>-</span> php 🏊</li>
-                <li align='center'style="list-style: none;"><span style='font-size: 1em;'>-</span> python 💖</li>
+                <listyle="list-style: none;"><span style='font-size: 1em;'></span> javascript 🌱</li>
+                <listyle="list-style: none;"><span style='font-size: 1em;'></span></span> php 🏊</li>
+                <listyle="list-style: none;"><span style='font-size: 1em;'></span></span> python 💖</li>
             </ul>
            while learning about other web technologies.</p>
     <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
