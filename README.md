@@ -13,19 +13,19 @@
         <h4><b>I develop web applications using :</b></h4>
             <ul >
                 <li style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Django</a> or <a href="https://eoearn.com" target="_blank">laravel</a> for my backends</li>
-                <li align='' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
+                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
             </ul>
          <h4 align=''><b> Currently working on :</b></h4>
             <ul>
-                <li align='' style="list-style: none;"><span style='font-size: 1em;'>-</span> 
+                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> 
                     <a href="https://eoearn.com" target="_blank">eoearn </a>[ Advertising and Marketing ]
                 </li>
             </ul>
         <h4 align=''><b>Programming Languages of interest :</b></h4>
                     <ul>
                 <listyle="list-style: none;"><span style='font-size: 1em;'>-</span> javascript 🌱</li>
-                <li align=''style="list-style: none;"><span style='font-size: 1em;'>-</span> php 🏊</li>
-                <li align=''style="list-style: none;"><span style='font-size: 1em;'>-</span> python 💖</li>
+                <li align='center'style="list-style: none;"><span style='font-size: 1em;'>-</span> php 🏊</li>
+                <li align='center'style="list-style: none;"><span style='font-size: 1em;'>-</span> python 💖</li>
             </ul>
            while learning about other web technologies.</p>
     <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
