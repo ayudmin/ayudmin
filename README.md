@@ -2,14 +2,14 @@
     <h5 style=''> 
         <i>Oh my God I'm shaking with delight right now. Someone is actually looking at my profile! 😊 </i>
     </h5>
-    <h3>
-        🤓
-            <i>
+    <h3> 
+        <i>
+            🤓
                 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
                     <img src="https://komarev.com/ghpvc/?username=ayudmin">
                 </a>
-            </i> 
-        🤓
+            🤓
+        </i> 
      </h3>
     <hr>
      <br>
