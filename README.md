@@ -7,17 +7,17 @@
         <img src="https://komarev.com/ghpvc/?username=ayudmin">
     </a></i> 🤓</h2>
 </div>
-<div align='center' style="max-width: 50%; margin: auto;">
+<div align='left' style="max-width: 50%; margin: auto;">
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
-    <div align='center' style='display: flex; flex-direction: column; justify-content: center; align-items: center; ';>
+    <div align='left' style='display: flex; flex-direction: column; justify-content: center; align-items: center; ';>
         <h4><b>I develop web applications using :</b></h4>
             <ul >
                 <li style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Django</a> or <a href="https://eoearn.com" target="_blank">laravel</a> for my backends</li>
-                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a  style="list-style: none;"href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
+                <li align='left' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a  style="list-style: none;"href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
             </ul>
          <h4 align=''><b> Currently working on :</b></h4>
             <ul>
-                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> 
+                <li align='left' style="list-style: none;"><span style='font-size: 1em;'>-</span> 
                     <a href="https://eoearn.com" target="_blank">eoearn </a>[ Advertising and Marketing ]
                 </li>
             </ul>
@@ -31,7 +31,7 @@
     <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
     </div>
 </div>
-<div align='center'>
+<div align='left'>
     <i>Other places you can find me:</i>
     <br>
     <br>
