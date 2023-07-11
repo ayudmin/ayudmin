@@ -4,11 +4,9 @@
     </h5>
     <h4> 
         <i>
-            🤓
-                <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-                    <img src="https://komarev.com/ghpvc/?username=ayudmin">
-                </a>
-            🤓
+            <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+                <img src="https://komarev.com/ghpvc/?username=ayudmin">
+            </a>
         </i> 
      </h4>
     <hr>
