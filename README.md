@@ -13,7 +13,7 @@
         <h4><b>I develop web applications using :</b></h4>
             <ul >
                 <li style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Django</a> or <a href="https://eoearn.com" target="_blank">laravel</a> for my backends</li>
-                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
+                <li align='center' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a  style="list-style: none;"href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
             </ul>
          <h4 align=''><b> Currently working on :</b></h4>
             <ul>
