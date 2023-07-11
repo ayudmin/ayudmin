@@ -7,7 +7,7 @@
         <img src="https://komarev.com/ghpvc/?username=ayudmin">
     </a></i> 🤓</h2>
 </div>
-<div align='center' style="max-width: 750px; margin: auto;">
+<div align='center' style="max-width: 50%; margin: auto;">
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
     <div align='center' style='display: flex; flex-direction: column; justify-content: center; align-items: center; ';>
         <p>- I love developing web applications using  django or laravel for my backends and vue js for my frontends. Currently working on <a href="https://eoearn.com" target="_blank">eoearn</a> while learning about other web technologies.</p>
