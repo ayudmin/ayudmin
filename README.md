@@ -11,21 +11,21 @@
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
     <div align='center' style='display: flex; flex-direction: column; justify-content: center; align-items: center; ';>
         <h4><b>I develop web applications using :</b></h4>
-            <ul>
-                <li><a href="https://eoearn.com" target="_blank">Django</a> or <a href="https://eoearn.com" target="_blank">laravel</a> for my backends</li>
-                <li align='left'><a href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
+            <ul >
+                <li style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Django</a> or <a href="https://eoearn.com" target="_blank">laravel</a> for my backends</li>
+                <li align='' style="list-style: none;"><span style='font-size: 1em;'>-</span> <a href="https://eoearn.com" target="_blank">Vue.js</a> for my frontends</li>
             </ul>
-         <h4 align='left'><b> Currently working on :</b></h4>
+         <h4 align=''><b> Currently working on :</b></h4>
             <ul>
-                <li align='left'>
-                    <a href="https://eoearn.com" target="_blank">eoearn [ Advertising and Marketing ]</a>
+                <li align='' style="list-style: none;"><span style='font-size: 1em;'>-</span> 
+                    <a href="https://eoearn.com" target="_blank">eoearn </a>[ Advertising and Marketing ]
                 </li>
             </ul>
-        <h4 align='left'><b>Programming Languages of interest :</b></h4>
+        <h4 align=''><b>Programming Languages of interest :</b></h4>
                     <ul>
-                <li>javascript 🌱</li>
-                <li align='left'>php 🏊</li>
-                <li align='left'>python 💖</li>
+                <listyle="list-style: none;"><span style='font-size: 1em;'>-</span> javascript 🌱</li>
+                <li align=''style="list-style: none;"><span style='font-size: 1em;'>-</span> php 🏊</li>
+                <li align=''style="list-style: none;"><span style='font-size: 1em;'>-</span> python 💖</li>
             </ul>
            while learning about other web technologies.</p>
     <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
