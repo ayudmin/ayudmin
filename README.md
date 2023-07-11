@@ -11,6 +11,7 @@
             </i> 
         🤓
      </h3>
+    <hr>
      <br>
 </div>
 <div align='left' style="max-width: 50%; margin: auto;">
@@ -67,6 +68,5 @@
     </li>
 </ul>
 </div>
-<hr>
 <hr>
 
