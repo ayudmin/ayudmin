@@ -2,7 +2,7 @@
     <h5 style=''> 
         <i>Oh my God I'm shaking with delight right now. Someone is actually looking at my profile! 😊 </i>
     </h5>
-    <h3> 
+    <h4> 
         <i>
             🤓
                 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -10,7 +10,7 @@
                 </a>
             🤓
         </i> 
-     </h3>
+     </h4>
     <hr>
      <br>
 </div>
