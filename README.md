@@ -1,11 +1,10 @@
-<div align='center'>
+<div align='left'>
     <h4 style=''> <i>Oh my God I'm shaking with delight right now. Someone is actually looking at my profile! 😊 </i></h4>
-    <img style="height: 275px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/661972f9027b0f395eeb9ca67868761155147d54a4ea3109d34cd59d55732454/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f66665278555644794558466a62536e4d482f67697068792e676966">
-<br>
-<br>
-    <h2>🤓<i> <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <h2>🤓<i> <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=ayudmin">
     </a></i> 🤓</h2>
+<br>
+<br>
 </div>
 <div align='left' style="max-width: 50%; margin: auto;">
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
