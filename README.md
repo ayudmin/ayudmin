@@ -9,8 +9,10 @@
 </div>
 <div align='center'>
     <h3 align='left' style="padding-left: 25px"><i>👋  Hello</h3> 
-    <p>- I love developing web applications using  django or laravel for my backends and vue js for my frontends. Currently working on <a href="https://eoearn.com" target="_blank">eoearn</a> while learning about other web technologies.</p>
+    <div align='center' style='display: flex; flex-direction: column; justify-content: center; align-items: center'>
+        <p>- I love developing web applications using  django or laravel for my backends and vue js for my frontends. Currently working on <a href="https://eoearn.com" target="_blank">eoearn</a> while learning about other web technologies.</p>
     <p>- 👀 I’m interested in javascript 🌱, php 🏊 and python 💖 most of the time programming languages. 💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
+    </div>
 </div>
 <div align='center'>
     <i>Other places you can find me:</i>
