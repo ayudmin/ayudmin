@@ -55,8 +55,15 @@
 <h4 align=''><b>Other places you can find me :</b></h4>
     <br>
     <br>
+                <ul>
+                <li align='left' style="list-style: none;"> 
+                <a href="https://eoearn.com" target="_blank"> Facebook page</li>
+                <li align='left' style="list-style: none;"> 
+                <a href="https://eoearn.com" target="_blank"> Blog website</li>
+                <li align='left' style="list-style: none;"> 
+                <a href="https://eoearn.com" target="_blank"> Youtube 💖</li>
+            </ul>
      <a href="https://www.facebook.com/blog.ayumefrancis.info/">
-      <img src="https://img.shields.io/badge/Facebook%20Page%20%20%E2%86%92-gray.svg?colorA=61c265&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://blog.ayumefrancis.info">
       <img src="https://img.shields.io/badge/Blog%20website%20%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
