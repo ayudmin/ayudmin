@@ -53,8 +53,6 @@
 </div>
 <div align='left'>
 <h4 align=''><b>Other places you can find me :</b></h4>
-    <br>
-    <br>
                 <ul>
                 <li align='left' style="list-style: none;"> 
                 <a href="https://eoearn.com" target="_blank"> Facebook page</li>
