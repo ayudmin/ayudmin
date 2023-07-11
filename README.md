@@ -52,7 +52,7 @@
     </div>
 </div>
 <div align='left'>
-    <i>Other places you can find me:</i>
+<h4 align=''><b>Other places you can find me :</b></h4>
     <br>
     <br>
      <a href="https://www.facebook.com/blog.ayumefrancis.info/">
