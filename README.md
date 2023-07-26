@@ -18,13 +18,13 @@
         <h4><b>I develop web applications using :</b></h4>
             <ul >
                 <li style="list-style: none;">
-                    <a href="https://eoearn.com" target="_blank">Django</a>
+                    <a href="https://www.djangoproject.com/" target="_blank">Django</a>
                     or
-                    <a href="https://eoearn.com" target="_blank">laravel</a>
+                    <a href="https://laravel.com/" target="_blank">laravel</a>
                     for my backends
                 </li>
                 <li align='left' style="list-style: none;">
-                    <a  style="list-style: none;"href="https://eoearn.com" target="_blank">Vue.js</a>
+                    <a  style="list-style: none;"href="https://vuejs.org/" target="_blank">Vue.js</a>
                     for my frontends
                 </li>
             </ul>
@@ -40,11 +40,11 @@
         <h4 align=''><b>Programming Languages of interest :</b></h4>
                     <ul>
                 <li align='left' style="list-style: none;"> 
-                <a href="https://eoearn.com" target="_blank"> javascript 🌱</li>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> javascript 🌱</li>
                 <li align='left' style="list-style: none;"> 
-                <a href="https://eoearn.com" target="_blank"> php 🏊</li>
+                <a href="https://www.php.net/" target="_blank"> php 🏊</li>
                 <li align='left' style="list-style: none;"> 
-                <a href="https://eoearn.com" target="_blank"> python 💖</li>
+                <a href="https://www.python.org/" target="_blank"> python 💖</li>
             </ul>
            while learning about other web technologies.</p>
     <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
