@@ -56,14 +56,9 @@
 </h4>
 <ul>
     <li align='left' style="list-style: none;"> 
-        <a href="https://www.facebook.com/blog.ayumefrancis.info/" target="_blank"> Facebook page 💙</a>
-    </li>
-    <li align='left' style="list-style: none;"> 
         <a href="https://blog.ayumefrancis.info" target="_blank"> Blog website 🏠 </a>
     </li>
-    <li align='left' style="list-style: none;"> 
-        <a href="https://www.youtube.com/channel/UCpUk_EERS3VSu39YMedNHlA" target="_blank"> Youtube 🫣 </a>
-    </li>
+
 </ul>
 </div>
 <hr>
