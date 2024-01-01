@@ -47,19 +47,7 @@
                 <a href="https://www.python.org/" target="_blank"> python 💖</li>
             </ul>
            while learning about other web technologies.</p>
-    <p>  💞️ looking to collaborate on python, php and javascript related projects? am available for that just drop me a messge <a href="https://blog.ayumefrancis.info/contact" target='_blank' >here 📫</a> or you can check up <a href="https://ayumefrancis.info" target='_blank'>projects.ayumefrancis.info</a> to see more work and projects I've worked on 😎 </p>
     </div>
-</div>
-<div align='left'>
-<h4 align=''>
-    <b>Other places you can find me :</b>
-</h4>
-<ul>
-    <li align='left' style="list-style: none;"> 
-        <a href="https://blog.ayumefrancis.info" target="_blank"> Blog website 🏠 </a>
-    </li>
-
-</ul>
 </div>
 <hr>
 
