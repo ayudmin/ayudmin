@@ -15,7 +15,7 @@
 <div align='left' style="max-width: 50%; margin: auto;">
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
     <div align='left' style='display: flex; flex-direction: column; justify-content: center; align-items: center; ';>
-        <h4><b>I'm a web developer crafting applications using :</b></h4>
+        <h4><b>I'm a developer crafting applications using :</b></h4>
             <ul >
                 <li style="list-style: none;">
                     <a href="https://www.djangoproject.com/" target="_blank">Django</a>
