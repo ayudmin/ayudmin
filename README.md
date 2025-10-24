@@ -23,7 +23,7 @@
                     <a href="#" target="_blank">Earthly technologies 🌱</a>
                 </li>
                 <li align='left' style="list-style: none;">
-                    <a  style="list-style: none;"href="https://vuejs.org/" target="_blank">Earthly Beings 💖</a>
+                    <a  style="list-style: none;"href="#" target="_blank">Earthly Beings 💖</a>
                 </li>
             </ul>
     </div>
