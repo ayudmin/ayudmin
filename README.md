@@ -2,15 +2,8 @@
     <h5 style=''> 
         <i>Oh my God I'm shaking with delight right now. Someone is actually looking at my profile! 😊 </i>
     </h5>
-    <h4> 
-        <i>
-            <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-                <img src="https://komarev.com/ghpvc/?username=ayudmin">
-            </a>
-        </i> 
-     </h4>
     <hr>
-     <br>
+    <br>
 </div>
 <div align='left' style="max-width: 50%; margin: auto;">
     <h3 align='' style="padding-left: 25px"><i>👋  Hello</h3> 
